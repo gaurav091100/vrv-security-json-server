@@ -36,7 +36,7 @@
         "READ",
         "WRITE",
         "UPDATE",
-        "DELETE",
+        "DELETE"
       ],
       "id": "b332"
     }
